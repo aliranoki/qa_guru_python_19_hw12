@@ -1,7 +1,11 @@
-selene
-selenium
-pytest
-allure-pytest
+selene~=1.0.2
+
+pytest==7.4.0
+allure-pytest==2.14.0
 webdriver-manager==3.8.6
-python-dotenv
-requests
+
+python-dotenv~=1.1.0
+
+allure-python-commons~=2.14.0
+selenium~=4.32.0
+dotenv~=0.9.9
